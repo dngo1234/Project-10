@@ -38,7 +38,7 @@ function draw() {
   if(sea.x < 0){
     //sea.x = 0;
    // sea.x = sea.width;
-    sea.x = sea.width;
+    sea.x = sea.width/8;
     //sea.y = height;
   }
 
